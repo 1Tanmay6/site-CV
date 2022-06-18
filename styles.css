@@ -1,7 +1,7 @@
-.body{
-    overflow-x : none;
+body{
+  overflow-x: hidden;
+  overflow-y: auto;
 }
-
 
 /* Remove border from toggler */
 .navbar-toggler {
